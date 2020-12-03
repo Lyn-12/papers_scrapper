@@ -2,7 +2,7 @@ import csv
 from scholarly import scholarly, ProxyGenerator
 import json
 import psycopg2
-
+import io
 
 # authors = []
 # authors.append('Byung Kyu Kim') this one is done
@@ -18,7 +18,7 @@ authors = [
     # 'Kurt Kremer', done partition 3
     # 'Qiang Fu' done partition 5
     # 'Carlo Dallapiccola', done partition 6
-     'Francisco Matorras',
+    # 'Francisco Matorras',
     # 'Haijun Yang',
     # 'Martin Grunewald'
 ]
@@ -32,7 +32,7 @@ partition= str(round(counter/1000) )
 csv_file = "datasets/articles_part"+partition_str+".csv"
 for author_name in authors:
     try:
-        with open(csv_file, 'w') as csvfile:
+        with io.open(csv_file, "w", encoding="utf-8") as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns, extrasaction='ignore')
             writer.writeheader()
 
