@@ -23,43 +23,43 @@ authors = [
     # 'Martin Grunewald', done
     # 'Robert M Roser', done partition 8
     # 'Tamleek Ali Tanveer', done partition 9
-    'HR Rao' ,
-    'stefan thor smith' ,
-    'Leroy Hood' ,
-    'Bernhard Schölkopf' ,
-    'Ana Valeria Barros Castro' ,
-    'Larry R Squire' 
-    'Michael H Jones' 
-    'Henning Hermjakob' 
-    'James C. Bezdek' 
-    'Eric Finkelstein' 
-    'Petre (Peter) Stoica' 
-    'Edmond K Kabagambe' 
-    'Stuart Kauffman' 
-    'Graesser' 
-    'Mark Handley' 
-    'Michael Busch' 
-    'Michael Busch' 
+    #'HR Rao' ,
+    #'stefan thor smith' ,
+    #'Leroy Hood' ,
+    #'Bernhard Schölkopf' ,
+    #'Ana Valeria Barros Castro' ,
+    #'Larry R Squire' 
+    #'Michael H Jones' 
+    #'Henning Hermjakob' 
+    #'James C. Bezdek' 
+    #'Eric Finkelstein' 
+    #'Petre (Peter) Stoica' 
+    #'Edmond K Kabagambe' 
+    #'Stuart Kauffman' 
+    #'Graesser' 
+    #'Mark Handley' 
+    #'Michael Busch' 
+    #'Michael Busch' 
 
     ## mehdi authors down ⬇️
-    'Prof. Dr. Hameed Ullah Khan' 
-    'Luis A. Nunes Amaral' 
-    'Nebojsa Nakicenovic' 
+    #'Prof. Dr. Hameed Ullah Khan' Done 1001
+    #'Luis A. Nunes Amaral' Done 1002
+    #'Nebojsa Nakicenovic' Done 1003
     'Nikolaus Rajewsky' 
-    'Jeffrey Cohn' 
-    'Giovanni Santin' 
-    'Gerard Muyzer' 
-    'JP Casas' 
-    'Andrzej Cichocki' 
-    'Michael J. Black' 
-    'Simon B. Eickhoff' 
-    'James Randerson' 
-    'Harry J. Wang' 
-    'Sheldon Ross' 
-    'Stuart C Gordon' 
-    'Peter Cox' 
-    'Fred Hirsch' 
-    'Bev Law' 
+    #'Jeffrey Cohn' 
+    #'Giovanni Santin' 
+    #'Gerard Muyzer' 
+    #'JP Casas' 
+    #'Andrzej Cichocki' 
+    #'Michael J. Black' 
+    #'Simon B. Eickhoff' 
+    #'James Randerson' 
+    #'Harry J. Wang' 
+    #'Sheldon Ross' 
+    #'Stuart C Gordon' 
+    #'Peter Cox' 
+    #'Fred Hirsch' 
+    #'Bev Law' 
 
     
 ]
