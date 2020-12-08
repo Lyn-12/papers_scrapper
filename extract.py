@@ -45,9 +45,9 @@ authors = [
     #'Prof. Dr. Hameed Ullah Khan' Done 1001
     #'Luis A. Nunes Amaral' Done 1002
     #'Nebojsa Nakicenovic' Done 1003
-    'Nikolaus Rajewsky' 
-    #'Jeffrey Cohn' 
-    #'Giovanni Santin' 
+    #'Nikolaus Rajewsky' Done 1004
+    #'Jeffrey Cohn' Done 1005 
+    'Giovanni Santin' 
     #'Gerard Muyzer' 
     #'JP Casas' 
     #'Andrzej Cichocki' 
