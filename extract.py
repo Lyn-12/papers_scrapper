@@ -47,9 +47,9 @@ authors = [
     #'Nebojsa Nakicenovic' Done 1003
     #'Nikolaus Rajewsky' Done 1004
     #'Jeffrey Cohn' Done 1005 
-    'Giovanni Santin' 
-    #'Gerard Muyzer' 
-    #'JP Casas' 
+    #'Giovanni Santin' Done 1006 
+    #'Gerard Muyzer' Done 1007
+    'JP Casas' 
     #'Andrzej Cichocki' 
     #'Michael J. Black' 
     #'Simon B. Eickhoff' 
