@@ -49,10 +49,10 @@ authors = [
     #'Jeffrey Cohn' Done 1005 
     #'Giovanni Santin' Done 1006 
     #'Gerard Muyzer' Done 1007
-    'JP Casas' 
-    #'Andrzej Cichocki' 
-    #'Michael J. Black' 
-    #'Simon B. Eickhoff' 
+    #'JP Casas' Done 1008 
+    #'Andrzej Cichocki' Done 1009
+    #'Michael J. Black' Done 1010
+    'Simon B. Eickhoff' 
     #'James Randerson' 
     #'Harry J. Wang' 
     #'Sheldon Ross' 
