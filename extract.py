@@ -52,8 +52,8 @@ authors = [
     #'JP Casas' Done 1008 
     #'Andrzej Cichocki' Done 1009
     #'Michael J. Black' Done 1010
-    'Simon B. Eickhoff' 
-    #'James Randerson' 
+    #'Simon B. Eickhoff' Done 1011
+    'James Randerson' 
     #'Harry J. Wang' 
     #'Sheldon Ross' 
     #'Stuart C Gordon' 
