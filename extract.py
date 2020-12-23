@@ -53,10 +53,10 @@ authors = [
     #'Andrzej Cichocki' Done 1009
     #'Michael J. Black' Done 1010
     #'Simon B. Eickhoff' Done 1011
-    'James Randerson' 
-    #'Harry J. Wang' 
-    #'Sheldon Ross' 
-    #'Stuart C Gordon' 
+    #'James Randerson' Done 1012
+    #'Harry J. Wang' Done 1013
+    #'Sheldon Ross' Done 1014 
+    'Stuart C Gordon' 
     #'Peter Cox' 
     #'Fred Hirsch' 
     #'Bev Law' 
