@@ -56,9 +56,9 @@ authors = [
     #'James Randerson' Done 1012
     #'Harry J. Wang' Done 1013
     #'Sheldon Ross' Done 1014 
-    'Stuart C Gordon' 
-    #'Peter Cox' 
-    #'Fred Hirsch' 
+    #'Stuart C Gordon'  Done 1015
+    #'Peter Cox' Done 1016 
+    'Fred Hirsch' 
     #'Bev Law' 
 
     
