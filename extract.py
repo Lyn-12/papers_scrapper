@@ -58,8 +58,37 @@ authors = [
     #'Sheldon Ross' Done 1014 
     #'Stuart C Gordon'  Done 1015
     #'Peter Cox' Done 1016 
-    'Fred Hirsch' 
-    #'Bev Law' 
+    #'Fred Hirsch' Done 1017 
+    #'Bev Law' Done 1018
+    #'Dennis BALDOCCHI' Done 1019
+    #'Liukang Xu' Done 1020
+    #'HIDOUCI Walid Khaled' Done 1021 Issues=true
+    #'Yacine Challal' Done 1022 Issues=true
+    #'Mouloud Koudil' Done 1023
+    'BENATCHBA Karima'
+    #'Faical AZOUAOU'
+    #'Ens KERMI Adel'
+    #'Selma khouri'
+    #'Balla'
+    #'Thouraya Bouabana-Tebibel'
+    #'Fatima BENBOUZID-SI TAYEB'
+    #'Nabila BOUSBIA'
+    #'Souhila SADEG'
+    #'Imane Guellil'
+    #'GHOMARI Abdessamed Réda'
+    #'Nabila Berkani'
+    #'Ramdane MAHIOU'
+    #'CHALAL Rachid'
+    #'Ens ANANE Mohamed'
+    #'Soumia BENKRID'
+    #'EL-Hachemi Guerrout'
+    #'Malika BESSEDIK'
+    #'Abdenour Sehad'
+    #'BENHAMIDA Fatima Zohra'
+    #'Fahima Nader'
+    #'Ouadah Abdelaziz'
+    #'silmi souhila'
+    #'Sabrina Bouzidi-Hassini'
 
     
 ]
