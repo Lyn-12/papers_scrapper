@@ -65,12 +65,12 @@ authors = [
     #'HIDOUCI Walid Khaled' Done 1021 Issues=true
     #'Yacine Challal' Done 1022 Issues=true
     #'Mouloud Koudil' Done 1023
-    'BENATCHBA Karima'
-    #'Faical AZOUAOU'
-    #'Ens KERMI Adel'
-    #'Selma khouri'
-    #'Balla'
-    #'Thouraya Bouabana-Tebibel'
+    #'BENATCHBA Karima' Done 1024
+    #'Faical AZOUAOU' Done 1025
+    #'Ens KERMI Adel' Done 1026
+    #'Selma khouri' Done 1027
+    #'Balla' Done 1028
+    'Thouraya Bouabana-Tebibel'
     #'Fatima BENBOUZID-SI TAYEB'
     #'Nabila BOUSBIA'
     #'Souhila SADEG'
