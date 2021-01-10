@@ -23,6 +23,7 @@
 #cell
 #chemical
 #chemistry
+<<<<<<< HEAD
 #botany
 #Bunsen 
 #burner
@@ -30,6 +31,8 @@
 #cell
 #chemical
 #chemistry
+=======
+>>>>>>> d05cf604659955c758735ba781f0ce4545e882ff
 climate
 climatologist
 control
