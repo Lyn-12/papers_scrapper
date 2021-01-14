@@ -23,7 +23,6 @@
 #cell
 #chemical
 #chemistry
-<<<<<<< HEAD
 #botany
 #Bunsen 
 #burner
@@ -31,8 +30,6 @@
 #cell
 #chemical
 #chemistry
-=======
->>>>>>> d05cf604659955c758735ba781f0ce4545e882ff
 climate
 climatologist
 control
@@ -60,6 +57,35 @@ gravity
 herpetology
 hypothesis
 ichthyology
+=======
+#climate
+#climatologist
+#control
+#cuvette
+#data
+#datum
+#electricity
+#electrochemist
+#element
+#energy
+#entomology
+#evolution
+#experiment
+#fact
+#flask
+#fossil
+#funnel
+#genetics
+#geology
+#geophysics
+#glassware
+#graduated 
+#cylinder
+#gravity
+#herpetology
+#hypothesis
+#ichthyology
+>>>>>>> 039255cda54c08362fafccd32872bc23d8002f08:scripts/V1.0.2/datasets/keywords.txt
 immunology
 lab
 laboratory

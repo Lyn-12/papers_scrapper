@@ -12,7 +12,6 @@ pg.Tor_Internal(tor_cmd='tor')
 scholarly.use_proxy(pg)
 
 
-
 print("Connection to tor done successfully !")
 
 
